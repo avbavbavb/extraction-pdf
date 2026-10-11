@@ -9,8 +9,6 @@ wheels/
 *.py[cod]
 .vscode/
 .DS_Store
-arrete.pdf
-output/
 
 # Virtual environments
 .venv/
